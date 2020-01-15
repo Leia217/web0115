@@ -1,0 +1,19 @@
+{
+  "name": "web0115",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leia217/web0115.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leia217/web0115/issues"
+  },
+  "homepage": "https://github.com/Leia217/web0115#readme"
+}
